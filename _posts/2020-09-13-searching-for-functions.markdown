@@ -240,6 +240,3 @@ uid=0(root) gid=0(root) groups=0(root)
 done
 ```
 
-
-### Conclusion
-ELF files are a mess of structures and pointers, but ultimately it's not that hard to find what you're looking for. 
